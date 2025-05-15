@@ -18,7 +18,7 @@ st.write("Enter customer features to predict churn.")
 feature_names = ['gender', 'SeniorCitizen', 'Partner', 'Dependents', 'tenure',
                  'PhoneService', 'MultipleLines', 'OnlineSecurity', 'OnlineBackup',
                  'DeviceProtection', 'TechSupport', 'StreamingTV', 'StreamingMovies',
-                 'PaperlessBilling', 'MonthlyCharges', 'TotalCharges',
+                 'PaperlessBilling', 'MonthlyCharges', 'TotalCharges','Churn',
                  'InternetService_Fiber optic', 'InternetService_No',
                  'Contract_One year', 'Contract_Two year',
                  'PaymentMethod_Credit card (automatic)',
